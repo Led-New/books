@@ -133,7 +133,7 @@
     .lista-menu_items:hover{
         background: var(--cor-degrader);
     }
-    .lista-menu_items:hover ~ .lista-menu_items_link{
+    .lista-menu_items:hover > .lista-menu_items_link{
         -webkit-text-fill-color: var(--cor-secundaria);
         text-decoration: none;
     }
