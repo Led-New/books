@@ -76,7 +76,7 @@
     display: none;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 900px) {
 
     .container_titulo,
     .container_titulo-negrito {
